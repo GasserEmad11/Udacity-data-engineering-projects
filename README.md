@@ -16,6 +16,7 @@ using python and cassandra python module to handle a noSQL server
 ## Data warehousing 
 
 write Data into tables and store them into a data warehouse using AWS RedShift,AWS s3,python and SQL queries
+[file link](https://github.com/GasserEmad11/Udacity-data-engineering-projects/blob/main/data%20warehousing%20project/README.md)
 
 ## Data lake
 
